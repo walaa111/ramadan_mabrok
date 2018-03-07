@@ -21,15 +21,14 @@
 }
 
 body {
-
-      -webkit-touch-callout: none;
+-webkit-touch-callout: none;
     -webkit-text-size-adjust: none;
     -webkit-user-select: none;
-    background-color: #1c1b19;
+    background-color: #26211e;
     background-image: linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
     background-image: -webkit-linear-gradient(top, #191816 0%, #f1f1f1 51%);
     background-image: -ms-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
-    background-image: -webkit-gradient( linear, left top, left bottom, color-stop(0, #1d1c1a), color-stop(0.51, #181715) );
+    background-image: -webkit-gradient( linear, left top, left bottom, color-stop(0, #27221f), color-stop(0.51, #241f1d) );
     background-attachment: fixed;
     font-family: 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
     font-size: 12px;
